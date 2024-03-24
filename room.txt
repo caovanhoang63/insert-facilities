@@ -1,0 +1,339 @@
+[
+    {
+      "name": "room_and_laundry",
+      "name_en": "Room & Laundry",
+      "name_vn": "Phòng & Dịch vụ giặt là",
+      "categories": [
+        {
+          "name": "internet_access_wifi_charges_apply",
+          "name_en": "Internet Access Wifi Charges Apply",
+          "name_vn": "Có phí sử dụng WiFi",
+          "description_en": "Internet access via WiFi with additional charges",
+          "description_vn": "Truy cập internet qua WiFi có tính phí phụ thu"
+        },
+        {
+          "name": "hair_dryer",
+          "name_en": "Hair Dryer",
+          "name_vn": "Máy sấy tóc",
+          "description_en": "Hair dryer provided in the room",
+          "description_vn": "Máy sấy tóc được cung cấp trong phòng"
+        },
+        {
+          "name": "dishwasher",
+          "name_en": "Dishwasher",
+          "name_vn": "Máy rửa chén",
+          "description_en": "Dishwasher available in the room",
+          "description_vn": "Có máy rửa chén trong phòng"
+        },
+        {
+          "name": "internet_access_lan_charges_apply",
+          "name_en": "Internet Access Lan Charges Apply",
+          "name_vn": "Có phí sử dụng Internet LAN",
+          "description_en": "Internet access via LAN with additional charges",
+          "description_vn": "Truy cập internet qua LAN có tính phí phụ thu"
+        },
+        {
+          "name": "in_room_safe",
+          "name_en": "In Room Safe",
+          "name_vn": "Két an toàn trong phòng",
+          "description_en": "In-room safe for valuables",
+          "description_vn": "Két an toàn được đặt trong phòng"
+        },
+        {
+          "name": "mosquito_net",
+          "name_en": "Mosquito Net",
+          "name_vn": "Màn chống muỗi",
+          "description_en": "Mosquito net provided in the room",
+          "description_vn": "Có màn chống muỗi trong phòng"
+        },
+        {
+          "name": "clothes_dryer",
+          "name_en": "Clothes Dryer",
+          "name_vn": "Máy sấy quần áo",
+          "description_en": "Clothes dryer available in the room",
+          "description_vn": "Có máy sấy quần áo trong phòng"
+        },
+        {
+          "name": "air_conditioning",
+          "name_en": "Air Conditioning",
+          "name_vn": "Điều hòa nhiệt độ",
+          "description_en": "Air conditioning available in the room",
+          "description_vn": "Có điều hòa nhiệt độ trong phòng"
+        },
+        {
+          "name": "ironing_facilities",
+          "name_en": "Ironing Facilities",
+          "name_vn": "Tiện nghi ủi quần áo",
+          "description_en": "Ironing facilities available in the room",
+          "description_vn": "Có tiện nghi ủi quần áo trong phòng"
+        },
+        {
+          "name": "microwave",
+          "name_en": "Microwave",
+          "name_vn": "Lò vi sóng",
+          "description_en": "Microwave oven available in the room",
+          "description_vn": "Có lò vi sóng trong phòng"
+        },
+        {
+          "name": "internet_access_wifi_complimentary",
+          "name_en": "Internet Access Wifi Complimentary",
+          "name_vn": "Miễn phí sử dụng WiFi",
+          "description_en": "Complimentary internet access via WiFi",
+          "description_vn": "Truy cập internet qua WiFi miễn phí"
+        },
+        {
+          "name": "washing_machine",
+          "name_en": "Washing Machine",
+          "name_vn": "Máy giặt",
+          "description_en": "Washing machine available in the room",
+          "description_vn": "Có máy giặt trong phòng"
+        },
+        {
+          "name": "blackout_curtains",
+          "name_en": "Blackout Curtains",
+          "name_vn": "Rèm cửa chống lọt sáng",
+          "description_en": "Blackout curtains provided in the room",
+          "description_vn": "Có rèm cửa chống lọt sáng trong phòng"
+        },
+        {
+          "name": "desk",
+          "name_en": "Desk",
+          "name_vn": "Bàn làm việc",
+          "description_en": "Work desk available in the room",
+          "description_vn": "Có bàn làm việc trong phòng"
+        },
+        {
+          "name": "internet_access_lan_complimentary",
+          "name_en": "Internet Access Lan Complimentary",
+          "name_vn": "Miễn phí sử dụng Internet LAN",
+          "description_en": "Complimentary internet access via LAN",
+          "description_vn": "Truy cập internet qua LAN miễn phí"
+        },
+        {
+          "name": "fan",
+          "name_en": "Fan",
+          "name_vn": "Quạt",
+          "description_en": "Fan available in the room",
+          "description_vn": "Có quạt trong phòng"
+        }
+      ]
+    },
+    {
+      "name": "food_and_drinks",
+      "name_en": "Food & Drinks",
+      "name_vn": "Thức ăn & Đồ uống",
+      "categories": [
+        {
+          "name": "complimentary_bottled_water",
+          "name_en": "Complimentary Bottled Water",
+          "name_vn": "Nước đóng chai miễn phí",
+          "description_en": "Complimentary bottled water provided",
+          "description_vn": "Cung cấp nước đóng chai miễn phí"
+        },
+        {
+          "name": "mini_bar",
+          "name_en": "Mini Bar",
+          "name_vn": "Minibar",
+          "description_en": "Mini bar available in the room",
+          "description_vn": "Có minibar trong phòng"
+        },
+        {
+          "name": "refrigerator",
+          "name_en": "Refrigerator",
+          "name_vn": "Tủ lạnh",
+          "description_en": "Refrigerator available in the room",
+          "description_vn": "Có tủ lạnh trong phòng"
+        },
+        {
+          "name": "coffee_tea_maker",
+          "name_en": "Coffee Tea Maker",
+          "name_vn": "Máy pha cà phê/trà",
+          "description_en": "Coffee and tea making facilities available in the room",
+          "description_vn": "Có tiện nghi pha cà phê/trà trong phòng"
+        },
+        {
+          "name": "breakfast",
+          "name_en": "Breakfast",
+          "name_vn": "Bữa sáng",
+          "description_en": "Breakfast service available",
+          "description_vn": "Có dịch vụ bữa sáng"
+        },
+        {
+          "name": "lunch",
+          "name_en": "Lunch",
+          "name_vn": "Bữa trưa",
+          "description_en": "Lunch service available",
+          "description_vn": "Có dịch vụ bữa trưa"
+        },
+        {
+          "name": "dinner",
+          "name_en": "Dinner",
+          "name_vn": "Bữa tối",
+          "description_en": "Dinner service available",
+          "description_vn": "Có dịch vụ bữa tối"
+        }
+      ]
+    },
+    {
+      "name": "entertainment",
+      "name_en": "Entertainment",
+      "name_vn": "Giải trí",
+      "categories": [
+        {
+          "name": "daily_newspaper",
+          "name_en": "Daily Newspaper",
+          "name_vn": "Báo hàng ngày",
+          "description_en": "Daily newspaper provided",
+          "description_vn": "Cung cấp báo hàng ngày"
+        },
+        {
+          "name": "inhouse_movies",
+          "name_en": "Inhouse Movies",
+          "name_vn": "Phim trong khách sạn",
+          "description_en": "In-house movie channels available",
+          "description_vn": "Có kênh phim trong khách sạn"
+        },
+        {
+          "name": "in_room_video_games",
+          "name_en": "In Room Video Games",
+          "name_vn": "Trò chơi điện tử trong phòng",
+          "description_en": "Video game consoles available in the room",
+          "description_vn": "Có máy chơi game trong phòng"
+        },
+        {
+          "name": "television",
+          "name_en": "Television",
+          "name_vn": "Truyền hình",
+          "description_en": "Television available in the room",
+          "description_vn": "Có truyền hình trong phòng"
+        },
+        {
+          "name": "dvd_cd_player",
+          "name_en": "Dvd Cd Player",
+          "name_vn": "Đầu đĩa DVD/CD",
+          "description_en": "DVD/CD player available in the room",
+          "description_vn": "Có đầu đĩa DVD/CD trong phòng"
+        }
+      ]
+    },
+    {
+      "name": "room_configuration_and_access",
+      "name_en": "Room Configuration & Access",
+      "name_vn": "Cấu hình & Truy cập phòng",
+      "categories": [
+        {
+          "name": "shared_bathroom",
+          "name_en": "Shared Bathroom",
+          "name_vn": "Phòng tắm chung",
+          "description_en": "Shared bathroom facilities",
+          "description_vn": "Phòng tắm được sử dụng chung"
+        },
+        {
+          "name": "balcony_terrace",
+          "name_en": "Balcony Terrace",
+          "name_vn": "Ban công/Sân thượng",
+          "description_en": "Balcony or terrace available in the room",
+          "description_vn": "Có ban công hoặc sân thượng trong phòng"
+        },
+        {
+          "name": "kitchenette",
+          "name_en": "Kitchenette",
+          "name_vn": "Khu bếp nhỏ",
+          "description_en": "Small kitchenette available in the room",
+          "description_vn": "Có khu bếp nhỏ trong phòng"
+        },
+        {
+          "name": "non_smoking_rooms",
+          "name_en": "Non Smoking Rooms",
+          "name_vn": "Phòng không hút thuốc",
+          "description_en": "Non-smoking rooms available",
+          "description_vn": "Có phòng không hút thuốc"
+        },
+        {
+          "name": "executive_lounge_access",
+          "name_en": "Executive Lounge Access",
+          "name_vn": "Quyền truy cập Lounge dành cho Giám đốc",
+          "description_en": "Access to the executive lounge",
+          "description_vn": "Quyền truy cập vào Lounge dành cho Giám đốc"
+        },
+        {
+          "name": "seating_area",
+          "name_en": "Seating Area",
+          "name_vn": "Khu vực ngồi",
+          "description_en": "Seating area available in the room",
+          "description_vn": "Có khu vực ngồi trong phòng"
+        },
+        {
+          "name": "separate_dining_area",
+          "name_en": "Separate Dining Area",
+          "name_vn": "Khu vực ăn uống riêng",
+          "description_en": "Separate dining area available in the room",
+          "description_vn": "Có khu vực ăn uống riêng trong phòng"
+        },
+        {
+          "name": "interconnecting_rooms_available",
+          "name_en": "Interconnecting Rooms Available",
+          "name_vn": "Có phòng nối liền",
+          "description_en": "Interconnecting rooms available",
+          "description_vn": "Có sẵn phòng nối liền"
+        }
+      ]
+    },
+    {
+      "name": "bathroom_and_pool",
+      "name_en": "Bathroom & Pool",
+      "name_vn": "Phòng tắm & Hồ bơi",
+      "categories": [
+        {
+          "name": "toiletries",
+          "name_en": "Toiletries",
+          "name_vn": "Đồ vệ sinh cá nhân",
+          "description_en": "Toiletries provided in the bathroom",
+          "description_vn": "Cung cấp đồ vệ sinh cá nhân trong phòng tắm"
+        },
+        {
+          "name": "bathtub",
+          "name_en": "Bathtub",
+          "name_vn": "Bồn tắm",
+          "description_en": "Bathtub available in the bathroom",
+          "description_vn": "Có bồn tắm trong phòng tắm"
+        },
+        {
+          "name": "heated_water",
+          "name_en": "Heated Water",
+          "name_vn": "Nước nóng",
+          "description_en": "Heated water available in the bathroom",
+          "description_vn": "Có nước nóng trong phòng tắm"
+        },
+        {
+          "name": "bathrobes",
+          "name_en": "Bathrobes",
+          "name_vn": "Áo choàng tắm",
+          "description_en": "Bathrobes provided",
+          "description_vn": "Cung cấp áo choàng tắm"
+        },
+        {
+          "name": "private_bathroom",
+          "name_en": "Private Bathroom",
+          "name_vn": "Phòng tắm riêng",
+          "description_en": "Private bathroom available in the room",
+          "description_vn": "Có phòng tắm riêng trong phòng"
+        },
+        {
+          "name": "private_pool",
+          "name_en": "Private Pool",
+          "name_vn": "Hồ bơi riêng",
+          "description_en": "Private pool available",
+          "description_vn": "Có hồ bơi riêng"
+        },
+        {
+          "name": "shower",
+          "name_en": "Shower",
+          "name_vn": "Vòi hoa sen",
+          "description_en": "Shower available in the bathroom",
+          "description_vn": "Có vòi hoa sen trong phòng tắm"
+        }
+      ]
+    }
+  ]
+
